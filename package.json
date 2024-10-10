@@ -1,15 +1,14 @@
 {
-  "name": "wkhtmltopdf-installer",
+  "name": "matoslav-wkhtmltopdf-installer",
   "version": "0.3.4",
   "keywords": [
     "wkhtmltopdf",
     "installer"
   ],
   "description": "Downloads and installs wkhtmltopdf",
-  "homepage": "https://github.com/pofider/node-wkhtmltopdf-installer",
+  "homepage": "https://github.com/matoslavv/node-wkhtmltopdf-installer",
   "repository": {
-    "type": "git",
-    "url": "git://github.com/pofider/node-wkhtmltopdf-installer.git"
+    "type": "git"
   },
   "license": "MIT",
   "author": {
